@@ -24,7 +24,7 @@ modules:
 
     sources:
       - dir:
-      	path: ..
+        path: ..
 
   - name: scripts
     buildsystem: simple
